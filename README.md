@@ -1,1 +1,1 @@
-# Project Simulator
+# Hospital Management System
